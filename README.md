@@ -1,6 +1,7 @@
 # gitst-repo
 
 * android
-  * Base64Utils
-  * TimeUtils
-  * JsonUtils
+  * utils
+    * Base64Utils
+    * TimeUtils
+    * JsonUtils
